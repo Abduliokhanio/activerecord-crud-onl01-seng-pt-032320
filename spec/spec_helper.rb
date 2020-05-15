@@ -25,5 +25,5 @@ RSpec.configure do |config|
 end
 
 def __
-  raise "Replace __ with test code."
+  
 end
